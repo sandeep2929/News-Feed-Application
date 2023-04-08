@@ -4,6 +4,12 @@
 
 It uses News API to ingest news and display it to the users of the application.
 
+Following screenshots shows UI of the app:-
+ ![image](https://user-images.githubusercontent.com/130059005/230706552-1c5b5b7c-a33a-4953-92cf-1f847af00162.png)
+ 
+ 
+![image](https://user-images.githubusercontent.com/130059005/230706691-6374f14f-199f-465a-8451-25a1f4c1c854.png)
+
 
 
 
