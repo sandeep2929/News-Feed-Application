@@ -1,3 +1,18 @@
+# News Feed Web Application
+
+# Description
+
+It uses News API to ingest news and display it to the users of the application.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
